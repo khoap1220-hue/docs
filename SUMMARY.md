@@ -2,6 +2,7 @@
 
 * [SoroWorks](README.md)
 * [Using the tools together](workflow.md)
+* [Upgrade a contract with a storage migration](tutorials/storage-migration.md)
 * [Soroban glossary](glossary.md)
 
 ## SoroForge — deploy
