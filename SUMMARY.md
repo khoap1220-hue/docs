@@ -24,6 +24,8 @@
 
 ## SoroVault — catalog
 
+* [Calling the API from Python, Go & shell](sorovault/api-clients.md)
+
 * [Overview](sorovault/README.md)
 * [Quickstart](sorovault/quickstart.md)
 * [Configuration](sorovault/configuration.md)
