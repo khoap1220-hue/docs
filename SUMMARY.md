@@ -1,6 +1,7 @@
 # Table of contents
 
 * [SoroWorks](README.md)
+* [One-page command cheat sheet](cheat-sheet.md)
 * [Using the tools together](workflow.md)
 * [Soroban glossary](glossary.md)
 
