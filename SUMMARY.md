@@ -3,6 +3,7 @@
 * [SoroWorks](README.md)
 * [Using the tools together](workflow.md)
 * [Soroban glossary](glossary.md)
+* [Move from initialize() to constructors](tutorials/constructors.md)
 
 ## SoroForge — deploy
 
